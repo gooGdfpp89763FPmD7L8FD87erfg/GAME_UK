@@ -96,7 +96,7 @@
         count: "3 packs available",
         name: "Call of Duty: Black Ops 7 / Warzone",
         desc: "Aimbot, ESP, ranked spoofer & triggerbot. 100% stream proof.",
-        price: "€389", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "£1,099", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "View Warzone packs →", href: "https://hack-gaming.uk/cheat-warzone.html",
         glow: "59,130,246"
       },
@@ -105,7 +105,7 @@
         count: "3 packs available",
         name: "ARC Raiders",
         desc: "Aimbot, player & robot ESP, loot & extraction ESP, triggerbot and HWID spoofer.",
-        price: "€389", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "£1,099", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "View ARC Raiders packs →", href: "https://hack-gaming.uk/cheat-arc-rider.html",
         glow: "245,158,11"
       },
@@ -114,7 +114,7 @@
         count: "2 packs available",
         name: "Fortnite",
         desc: "Custom aimbot, player ESP, loot & chest ESP, HWID spoofer + cleaner.",
-        price: "€389", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "£1,099", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "View Fortnite packs →", href: "https://hack-gaming.uk/cheat-fortnite.html",
         glow: "139,92,246"
       },
@@ -123,7 +123,7 @@
         count: "1 pack available",
         name: "Valorant",
         desc: "Aimbot, ESP, triggerbot and HWID spoofer. Undetectable and 100% stream proof.",
-        price: "€389", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
+        price: "£1,099", consoles: "🖥️ PC · 🎮 Xbox · 🎮 PS5",
         cta: "View the Valorant pack →", href: "https://hack-gaming.uk/cheat-valorant.html",
         glow: "255,70,85"
       },
@@ -132,7 +132,7 @@
         count: "1 pack available",
         name: "Escape from Tarkov",
         desc: "Aimbot, player & scav ESP, loot and extraction ESP, HWID spoofer. Ready to deploy.",
-        price: "€389", consoles: "🖥️ PC",
+        price: "£1,099", consoles: "🖥️ PC",
         cta: "View the Tarkov pack →", href: "https://hack-gaming.uk/cheat-tarkov.html",
         glow: "166,154,70"
       }
